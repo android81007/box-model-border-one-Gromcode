@@ -4,3 +4,7 @@ div {
     background-color: aqua;
     padding: 47px;
 }
+
+div p {
+    margin: 0;
+}
